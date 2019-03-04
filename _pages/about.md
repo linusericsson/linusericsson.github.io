@@ -32,10 +32,12 @@ Stay tuned for more to come...
 
 During my 4th year at Durham University, I undertook weekly teaching and demonstrating tasks. This included helping out students in their first and second years in practicals and marking minor assignments. The main course I taught was the 1st year computer science course [Introduction to Programming](https://github.com/DurhamIP).
 
+---
+
 ## Contact
 
 Bayes Centre 3.06 <br>
 47 Potterrow <br>
-Edinburgh, EH8 9BT
+Edinburgh, EH8 9BT	
 
 linus.ericsson@ed.ac.uk
