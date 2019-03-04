@@ -82,12 +82,18 @@ analytics:
 author:
   name             : "Linus Ericsson"
   avatar           : "profile.jpg"
-  bio              : "CDT student in Data Science at the University of Edinburgh.\n\nBayes Centre 3.06\n47 Potterrow\nEdinburgh, EH8 9BT\n\nlinus.ericsson@ed.ac.uk"
+  bio              : "CDT student in Data Science at the University of Edinburgh.
+
+  Bayes Centre 3.06
+  47 Potterrow
+  Edinburgh, EH8 9BT
+
+  linus.ericsson@ed.ac.uk"
   location         : "Edinburgh, UK"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : 
   researchgate     : 
   uri              :
   bitbucket        :
