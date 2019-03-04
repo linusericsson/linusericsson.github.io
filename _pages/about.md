@@ -34,8 +34,8 @@ During my 4th year at Durham University, I undertook weekly teaching and demonst
 
 ## Contact
 
-Bayes Centre 3.06
-47 Potterrow
+Bayes Centre 3.06 <br>
+47 Potterrow <br>
 Edinburgh, EH8 9BT
 
 linus.ericsson@ed.ac.uk
