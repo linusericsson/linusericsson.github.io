@@ -20,7 +20,7 @@ Stay tuned for more to come...
 
 ## Teaching
 
-During my 4th year at Durham University, I undertook weekly teaching and demonstrating tasks. This included helping out students in their first and second years in practicals and marking minor assignments. The main course I taught was the 1st year computer science course [Introduction to Programming](https://github.com/DurhamIP).
+During my 4th year at Durham University, I undertook weekly teaching and demonstrating tasks. This included helping out students in their first and second years in practicals and marking minor assignments. The main course I taught was the first year computer science course [Introduction to Programming](https://github.com/DurhamIP).
 
 ## Contact
 
