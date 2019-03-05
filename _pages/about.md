@@ -28,4 +28,4 @@ Bayes Centre 3.06 <br>
 47 Potterrow <br>
 Edinburgh, EH8 9BT	
 
-linus.ericsson@ed.ac.uk
+linus.ericsson at ed.ac.uk
