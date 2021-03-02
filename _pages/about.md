@@ -16,7 +16,7 @@ Previously, I completed a Master's degree in Computer Science at Durham Universi
 
 ## Publications
 
-Ericsson L., Gouk H. and Hospedales, T. M., [How Well Do Self-Supervised Models Transfer?](https://arxiv.org/abs/2011.13377), In CVPR, 2021, arXiv:2011.13377, [code](https://github.com/linusericsson/ssl-transfer)
+Ericsson L., Gouk H. and Hospedales, T. M., [How Well Do Self-Supervised Models Transfer?](https://arxiv.org/abs/2011.13377), In CVPR, 2021, [code](https://github.com/linusericsson/ssl-transfer)
 
 ## Teaching
 
