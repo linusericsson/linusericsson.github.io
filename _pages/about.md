@@ -16,7 +16,11 @@ Previously, I completed a Master's degree in Computer Science at Durham Universi
 
 ## Publications
 
+Ericsson L., Gouk H. and Hospedales, T. M., [Why Do Self-Supervised Models Transfer? Investigating the Impact of Invariance on Downstream Tasks](https://arxiv.org/abs/2111.11398), Under review, [code](https://github.com/linusericsson/ssl-invariances)
+
 Ericsson L., Gouk H. and Hospedales, T. M., [How Well Do Self-Supervised Models Transfer?](https://arxiv.org/abs/2011.13377), In CVPR, 2021, [code](https://github.com/linusericsson/ssl-transfer)
+
+Ericsson L., Gouk H., Loy C.C. and Hospedales, T. M., [Self-Supervised Representation Learning: Introduction, Advances and Challenges](https://arxiv.org/abs/2110.09327), To appear in IEEE Signal Processing Magazine
 
 ## Teaching
 
