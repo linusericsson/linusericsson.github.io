@@ -14,6 +14,8 @@ I am a PhD student in the [Data Science CDT](http://datascience.inf.ed.ac.uk/) a
 
 ## Publications
 
+Check out my [Google Scholar page](https://scholar.google.com/citations?user=QRW9NN0AAAAJ).
+
 Ericsson L., Dong N., Yang Y., Leonardis A. and McDonagh, S., [Region Proposal Network Pre-Training Helps Label-Efficient Object Detection](https://arxiv.org/abs/2211.09022), In Self-Supervised Learning - Theory and Practice, Workshop at NeurIPS, 2022.
 
 Ericsson L., Gouk H. and Hospedales, T. M., [Why Do Self-Supervised Models Transfer? Investigating the Impact of Invariance on Downstream Tasks](https://arxiv.org/abs/2111.11398), In BMVC, 2022, [code](https://github.com/linusericsson/ssl-invariances).
