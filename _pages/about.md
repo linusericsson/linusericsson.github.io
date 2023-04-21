@@ -30,16 +30,16 @@ I am a PhD student in the [Data Science CDT](http://datascience.inf.ed.ac.uk/) a
 
 Check out my [Google Scholar page](https://scholar.google.com/citations?user=QRW9NN0AAAAJ).
 
-**Region Proposal Network Pre-Training Helps Label-Efficient Object Detection** [[paper]](https://arxiv.org/abs/2211.09022) </br>
+**Region Proposal Network Pre-Training Helps Label-Efficient Object Detection** [[paper]](https://arxiv.org/abs/2211.09022)
 <u>Ericsson L.</u>, Dong N., Yang Y., Leonardis A. and McDonagh, S., In Self-Supervised Learning - Theory and Practice, Workshop at NeurIPS, 2022.
 
-**Why Do Self-Supervised Models Transfer? Investigating the Impact of Invariance on Downstream Tasks** [[paper]](https://arxiv.org/abs/2111.11398)[[code]](https://github.com/linusericsson/ssl-invariances) </br>
+**Why Do Self-Supervised Models Transfer? Investigating the Impact of Invariance on Downstream Tasks** [[paper]](https://arxiv.org/abs/2111.11398)[[code]](https://github.com/linusericsson/ssl-invariances)
 <u>Ericsson L.</u>, Gouk H. and Hospedales, T. M., In BMVC, 2022.
 
-**How Well Do Self-Supervised Models Transfer?** [[paper]](https://arxiv.org/abs/2011.13377)[[code]](https://github.com/linusericsson/ssl-transfer) </br>
+**How Well Do Self-Supervised Models Transfer?** [[paper]](https://arxiv.org/abs/2011.13377)[[code]](https://github.com/linusericsson/ssl-transfer)
 <u>Ericsson L.</u>, Gouk H. and Hospedales, T. M., In CVPR, 2021.
 
-**Self-Supervised Representation Learning: Introduction, Advances and Challenges** [[paper]](https://arxiv.org/abs/2110.09327) </br>
+**Self-Supervised Representation Learning: Introduction, Advances and Challenges** [[paper]](https://arxiv.org/abs/2110.09327)
 <u>Ericsson L.</u>, Gouk H., Loy C.C. and Hospedales, T. M., In IEEE Signal Processing Magazine.
 
 ## Other Experience
