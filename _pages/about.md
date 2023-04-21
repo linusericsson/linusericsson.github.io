@@ -14,17 +14,17 @@ I am a PhD student in the [Data Science CDT](http://datascience.inf.ed.ac.uk/) a
 
 ## News
 
-Dec 2022: We presented our paper [Region Proposal Network Pre-Training Helps Label-Efficient Object Detection](https://arxiv.org/abs/2211.09022) at the NeurIPS 2022 workshop on Self-Supervised Learning - Theory and Practice.
+**Dec 2022:** We presented our paper [Region Proposal Network Pre-Training Helps Label-Efficient Object Detection](https://arxiv.org/abs/2211.09022) at the NeurIPS 2022 workshop on Self-Supervised Learning - Theory and Practice.
 
-Nov 2022: We presented our paper [Why Do Self-Supervised Models Transfer? Investigating the Impact of Invariance on Downstream Tasks](https://arxiv.org/abs/2111.11398) at BMVC 2022.
+**Nov 2022:** We presented our paper [Why Do Self-Supervised Models Transfer? Investigating the Impact of Invariance on Downstream Tasks](https://arxiv.org/abs/2111.11398) at BMVC 2022.
 
-Sep 2022: Started an internship at Samsung AI Centre Cambridge with [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) & [Da Li](https://dali-dl.github.io/).
+**Sep 2022:** Started an internship at Samsung AI Centre Cambridge with [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) & [Da Li](https://dali-dl.github.io/).
 
-Oct 2021: Started an internship at Huawei Noah's Ark Lab with [Steven McDonagh](https://smcdonagh.github.io/) & [Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/).
+**Oct 2021:** Started an internship at Huawei Noah's Ark Lab with [Steven McDonagh](https://smcdonagh.github.io/) & [Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/).
 
-Aug 2021: Our new survey paper [Self-Supervised Representation Learning: Introduction, Advances and Challenges](https://arxiv.org/abs/2110.09327) is published in the IEEE Signal Processing Magazine!
+**Aug 2021:** Our new survey paper [Self-Supervised Representation Learning: Introduction, Advances and Challenges](https://arxiv.org/abs/2110.09327) is published in the IEEE Signal Processing Magazine!
 
-Jun 2021: Presented [How Well Do Self-Supervised Models Transfer?](https://arxiv.org/abs/2011.13377) at CVPR 2021!
+**Jun 2021:** Presented [How Well Do Self-Supervised Models Transfer?](https://arxiv.org/abs/2011.13377) at CVPR 2021!
 
 ## Publications
 
