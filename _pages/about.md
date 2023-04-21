@@ -14,29 +14,33 @@ I am a PhD student in the [Data Science CDT](http://datascience.inf.ed.ac.uk/) a
 
 ## News
 
-**Dec 2022:** We presented our paper [Region Proposal Network Pre-Training Helps Label-Efficient Object Detection](https://arxiv.org/abs/2211.09022) at the NeurIPS 2022 workshop on Self-Supervised Learning - Theory and Practice.
+[12/2022] Presented a [paper](https://arxiv.org/abs/2211.09022) at the NeurIPS 2022 workshop on Self-Supervised Learning - Theory and Practice!
 
-**Nov 2022:** We presented our paper [Why Do Self-Supervised Models Transfer? Investigating the Impact of Invariance on Downstream Tasks](https://arxiv.org/abs/2111.11398) at BMVC 2022.
+[11/2022] Presented a [paper](https://arxiv.org/abs/2111.11398) at BMVC 2022!
 
-**Sep 2022:** Started an internship at Samsung AI Centre Cambridge with [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) & [Da Li](https://dali-dl.github.io/).
+[09/2022] Started an internship at Samsung AI Centre Cambridge with [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) & [Da Li](https://dali-dl.github.io/).
 
-**Oct 2021:** Started an internship at Huawei Noah's Ark Lab with [Steven McDonagh](https://smcdonagh.github.io/) & [Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/).
+[10/2021] Started an internship at Huawei Noah's Ark Lab with [Steven McDonagh](https://smcdonagh.github.io/) & [Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/).
 
-**Aug 2021:** Our new survey paper [Self-Supervised Representation Learning: Introduction, Advances and Challenges](https://arxiv.org/abs/2110.09327) is published in the IEEE Signal Processing Magazine!
+[08/2021] Our new survey [paper](https://arxiv.org/abs/2110.09327) is published in the IEEE Signal Processing Magazine!
 
-**Jun 2021:** Presented [How Well Do Self-Supervised Models Transfer?](https://arxiv.org/abs/2011.13377) at CVPR 2021!
+[06/2021] Presented a [paper](https://arxiv.org/abs/2011.13377) at CVPR 2021!
 
 ## Publications
 
 Check out my [Google Scholar page](https://scholar.google.com/citations?user=QRW9NN0AAAAJ).
 
-Ericsson L., Dong N., Yang Y., Leonardis A. and McDonagh, S., [Region Proposal Network Pre-Training Helps Label-Efficient Object Detection](https://arxiv.org/abs/2211.09022), In Self-Supervised Learning - Theory and Practice, Workshop at NeurIPS, 2022.
+**Region Proposal Network Pre-Training Helps Label-Efficient Object Detection** [[paper]](https://arxiv.org/abs/2211.09022) </br>
+<u>Ericsson L.</u>, Dong N., Yang Y., Leonardis A. and McDonagh, S., In Self-Supervised Learning - Theory and Practice, Workshop at NeurIPS, 2022.
 
-Ericsson L., Gouk H. and Hospedales, T. M., [Why Do Self-Supervised Models Transfer? Investigating the Impact of Invariance on Downstream Tasks](https://arxiv.org/abs/2111.11398), In BMVC, 2022, [code](https://github.com/linusericsson/ssl-invariances).
+**Why Do Self-Supervised Models Transfer? Investigating the Impact of Invariance on Downstream Tasks** [[paper]](https://arxiv.org/abs/2111.11398)[[code]](https://github.com/linusericsson/ssl-invariances) </br>
+<u>Ericsson L.</u>, Gouk H. and Hospedales, T. M., In BMVC, 2022.
 
-Ericsson L., Gouk H. and Hospedales, T. M., [How Well Do Self-Supervised Models Transfer?](https://arxiv.org/abs/2011.13377), In CVPR, 2021, [code](https://github.com/linusericsson/ssl-transfer).
+**How Well Do Self-Supervised Models Transfer?** [[paper]](https://arxiv.org/abs/2011.13377)[[code]](https://github.com/linusericsson/ssl-transfer) </br>
+<u>Ericsson L.</u>, Gouk H. and Hospedales, T. M., In CVPR, 2021.
 
-Ericsson L., Gouk H., Loy C.C. and Hospedales, T. M., [Self-Supervised Representation Learning: Introduction, Advances and Challenges](https://arxiv.org/abs/2110.09327), To appear in IEEE Signal Processing Magazine.
+**Self-Supervised Representation Learning: Introduction, Advances and Challenges** [[paper]](https://arxiv.org/abs/2110.09327) </br>
+<u>Ericsson L.</u>, Gouk H., Loy C.C. and Hospedales, T. M., In IEEE Signal Processing Magazine.
 
 ## Other Experience
 I have worked as an intern with [Steven McDonagh](https://smcdonagh.github.io/) & [Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/) at Huawei Noah's Ark Lab, and with [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) & [Da Li](https://dali-dl.github.io/) at Samsung AI Center. Previously, I completed a Master's degree in Computer Science at Durham University where I worked with [Magnus Bordewich](https://community.dur.ac.uk/m.j.r.bordewich/) on multi-task and transfer learning in RL. During my undergraduate degree I developed an algorithmic composition system with [Steven Bradley](https://www.durham.ac.uk/staff/s-p-bradley/). I also worked with Professor [Toby Breckon](http://breckon.eu/toby/) at the university over a summer, developing dense stereo vision and visual odometry for robotics. During this time I had the chance to collaborate with the Centre for Vision and Visual Cognition on a project involving Brain-Computer Interfaces as an application of Deep Learning.
