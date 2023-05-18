@@ -14,7 +14,7 @@ I am a PhD student in the [Data Science CDT](http://datascience.inf.ed.ac.uk/) a
 
 ## News
 
-[05/2023] Our new paper on domain adaptation got accepted to AutoML 2023!
+[05/2023] Our new paper on domain adaptation got accepted to AutoML 2023!  
 [12/2022] Presented a [paper](https://arxiv.org/abs/2211.09022) at the NeurIPS 2022 workshop on Self-Supervised Learning - Theory and Practice!  
 [11/2022] Presented a [paper](https://arxiv.org/abs/2111.11398) at BMVC 2022!  
 [09/2022] Started an internship at Samsung AI Centre Cambridge with [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) & [Da Li](https://dali-dl.github.io/).  
