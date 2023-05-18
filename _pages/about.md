@@ -10,7 +10,7 @@ redirect_from:
 
 ## About
 
-I am a PhD student in the [Data Science CDT](http://datascience.inf.ed.ac.uk/) at the University of Edinburgh. My research is on unsupervised representation learning by learning from underlying structure in data rather than manual annotation. I am also interested in how traditional supervised learning can benefit from self-supervised methods, as the advantage of learning from labels diminishes. This work is supervised by [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) and funded in part by the [EPSRC](https://epsrc.ukri.org/). My other research interests include multi-modal learning and responsible applications to climate and healthcare.
+I am finishing my PhD in the [Data Science CDT](http://datascience.inf.ed.ac.uk/) at the University of Edinburgh. My research is on unsupervised representation learning by learning from underlying structure in data rather than manual annotation. I am also interested in how traditional supervised learning can benefit from self-supervised methods, as the advantage of learning from labels diminishes. This work is supervised by [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) and funded in part by the [EPSRC](https://epsrc.ukri.org/). My other research interests include multi-modal learning and responsible applications to climate and healthcare.
 
 ## News
 
