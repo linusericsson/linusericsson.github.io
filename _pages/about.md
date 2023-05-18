@@ -10,13 +10,10 @@ redirect_from:
 
 ## About
 
-I am a Linus and I am awesome. A PhD student by day in the [Data Science CDT](http://datascience.inf.ed.ac.uk/) at the University of Edinburgh, Scotland, UK, Europe, Earth, Milky Way, The Universe. My research is on unsupervised representation learning by learning about learning via learning over learning through learned learnings from underlying structure in data rather than manual annotation. By night I climb things and look at puppies. I am also interested in how traditional supervised learning can benefit from self-supervised methods, as the advantage of learning from labels diminishes. This work is supervised by [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) and funded in part by the [EPSRC](https://epsrc.ukri.org/). My other research interests include multi-modal learning and responsible applications to climate and healthcare and animal care, particularly puppies. I need a job so I can move in with my partner and get a puppy (see news, June 2024), please send job offers and dog treats.
+I am a PhD student in the [Data Science CDT](http://datascience.inf.ed.ac.uk/) at the University of Edinburgh. My research is on unsupervised representation learning by learning from underlying structure in data rather than manual annotation. I am also interested in how traditional supervised learning can benefit from self-supervised methods, as the advantage of learning from labels diminishes. This work is supervised by [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) and funded in part by the [EPSRC](https://epsrc.ukri.org/). My other research interests include multi-modal learning and responsible applications to climate and healthcare.
 
 ## News
 
-[06/2024] Our paper on puppies got rejected from NeurPUPS.
-[05/2023] Application for apartment and puppy was rejected. Need job.
-[05/2023] Our paper on domain adaptation got accepted to AutoML!
 [12/2022] Presented a [paper](https://arxiv.org/abs/2211.09022) at the NeurIPS 2022 workshop on Self-Supervised Learning - Theory and Practice!  
 [11/2022] Presented a [paper](https://arxiv.org/abs/2111.11398) at BMVC 2022!  
 [09/2022] Started an internship at Samsung AI Centre Cambridge with [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) & [Da Li](https://dali-dl.github.io/).  
