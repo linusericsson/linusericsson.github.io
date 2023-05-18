@@ -26,10 +26,10 @@ I am a PhD student in the [Data Science CDT](http://datascience.inf.ed.ac.uk/) a
 
 Check out my [Google Scholar page](https://scholar.google.com/citations?user=QRW9NN0AAAAJ).
 
-**Parameter-Efficient Fine-Tuning for Medical Image Analysis: The Missed Opportunity** [[paper]](https://arxiv.org/abs/2305.08252)
+**Parameter-Efficient Fine-Tuning for Medical Image Analysis: The Missed Opportunity** [[paper]](https://arxiv.org/abs/2305.08252)  
 Dutt R., <u>Ericsson L.</u>, Sanchez P., Tsaftaris S. A. and Hospedales, T. M., *Under review*.
 
-**Better Practices for Domain Adaptation** [[link coming]]
+**Better Practices for Domain Adaptation** [[link coming]]  
 <u>Ericsson L.</u>, Li D. and Hospedales, T. M., In AutoML, 2023.
 
 **Region Proposal Network Pre-Training Helps Label-Efficient Object Detection** [[paper]](https://arxiv.org/abs/2211.09022)  
