@@ -23,6 +23,7 @@ I have a PhD from the University of Edinburgh, focused on "Self-Supervised Learn
 ## News
 
 [11/2023] Started a postdoc position with Elliot J. Crowley at the University of Edinburgh.  
+[09/2023] Our AutoML 2023 paper received a Best Paper Award!  
 [05/2023] Our new paper on domain adaptation got accepted to AutoML 2023!  
 [12/2022] Presented a [paper](https://arxiv.org/abs/2211.09022) at the NeurIPS 2022 workshop on Self-Supervised Learning - Theory and Practice!  
 [11/2022] Presented a [paper](https://arxiv.org/abs/2111.11398) at BMVC 2022!  
