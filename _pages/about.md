@@ -23,8 +23,8 @@ I have a PhD from the University of Edinburgh, focused on "Self-Supervised Learn
 ## News
 
 [11/2023] Started a postdoc position with Elliot J. Crowley at the University of Edinburgh.  
-[09/2023] Our AutoML 2023 paper received a Best Paper Award!  
-[05/2023] Our new paper on domain adaptation got accepted to AutoML 2023!  
+[10/2023] Our AutoML 2023 [paper](https://arxiv.org/abs/2309.03879) received a Best paper award!  
+[10/2023] Presented a [paper](https://arxiv.org/abs/2309.03879) on domain adaptation at AutoML 2023!  
 [12/2022] Presented a [paper](https://arxiv.org/abs/2211.09022) at the NeurIPS 2022 workshop on Self-Supervised Learning - Theory and Practice!  
 [11/2022] Presented a [paper](https://arxiv.org/abs/2111.11398) at BMVC 2022!  
 [09/2022] Started an internship at Samsung AI Centre Cambridge with [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) & [Da Li](https://dali-dl.github.io/).  
@@ -39,8 +39,8 @@ Check out my [Google Scholar page](https://scholar.google.com/citations?user=QRW
 **Parameter-Efficient Fine-Tuning for Medical Image Analysis: The Missed Opportunity** [[paper]](https://arxiv.org/abs/2305.08252)  
 Dutt R., <u>Ericsson L.</u>, Sanchez P., Tsaftaris S. A. and Hospedales, T. M., *under review*.
 
-**Better Practices for Domain Adaptation** [link coming]  
-<u>Ericsson L.</u>, Li D. and Hospedales, T. M., In AutoML, 2023.
+**Better Practices for Domain Adaptation** [[paper]](https://arxiv.org/abs/2309.03879)[[code]](https://github.com/linusericsson/better-da)  
+<u>Ericsson L.</u>, Li D. and Hospedales, T. M., In AutoML, 2023 (Best paper award).
 
 **Region Proposal Network Pre-Training Helps Label-Efficient Object Detection** [[paper]](https://arxiv.org/abs/2211.09022)  
 <u>Ericsson L.</u>, Dong N., Yang Y., Leonardis A. and McDonagh, S., In Self-Supervised Learning - Theory and Practice, Workshop at NeurIPS, 2022.
