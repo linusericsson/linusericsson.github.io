@@ -10,10 +10,19 @@ redirect_from:
 
 ## About
 
-I am finishing my PhD in the [Data Science CDT](http://datascience.inf.ed.ac.uk/) at the University of Edinburgh. My research is on unsupervised representation learning by learning from underlying structure in data rather than manual annotation. I am also interested in how traditional supervised learning can benefit from self-supervised methods, as the advantage of learning from labels diminishes. This work is supervised by [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) and funded in part by the [EPSRC](https://epsrc.ukri.org/). My other research interests include multi-modal learning and responsible applications to climate and healthcare.
+I am a postdoctoral research associate at the School of Engineering in the University of Edinburgh, working with [Elliot J. Crowley](https://elliotjcrowley.github.io/).
+
+My research interests include:
+* Automated machine learning (AutoML)
+* Representation learning
+* Multi-modal learning
+* Responsible applications to climate and healthcare
+
+I have a PhD from the University of Edinburgh, focused on "Self-Supervised Learning for Transferable Representations". This work was supervised by [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) and funded in part by the [EPSRC](https://epsrc.ukri.org/).
 
 ## News
 
+[11/2023] Started a postdoc position with Elliot J. Crowley at the University of Edinburgh.  
 [05/2023] Our new paper on domain adaptation got accepted to AutoML 2023!  
 [12/2022] Presented a [paper](https://arxiv.org/abs/2211.09022) at the NeurIPS 2022 workshop on Self-Supervised Learning - Theory and Practice!  
 [11/2022] Presented a [paper](https://arxiv.org/abs/2111.11398) at BMVC 2022!  
