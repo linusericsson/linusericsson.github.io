@@ -22,6 +22,7 @@ I have a PhD from the University of Edinburgh, focused on "Self-Supervised Learn
 
 ## News
 
+[01/2024] I am co-organising this year's [NAS Unseen-Data competition](https://www.nascompetition.com/) as part of AutoML 2024.  
 [11/2023] Started a postdoc position with Elliot J. Crowley at the University of Edinburgh.  
 [10/2023] Our AutoML 2023 [paper](https://arxiv.org/abs/2309.03879) received a best paper award!  
 [10/2023] Presented a [paper](https://arxiv.org/abs/2309.03879) on domain adaptation at AutoML 2023!  
