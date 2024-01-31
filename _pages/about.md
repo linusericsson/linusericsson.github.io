@@ -44,7 +44,7 @@ Dutt R., <u>Ericsson L.</u>, Sanchez P., Tsaftaris S. A. and Hospedales, T. M., 
 <u>Ericsson L.</u>, Li D. and Hospedales, T. M., In AutoML, 2023 (Best paper award).
 
 **Region Proposal Network Pre-Training Helps Label-Efficient Object Detection** [[paper]](https://arxiv.org/abs/2211.09022)  
-<u>Ericsson L.</u>, Dong N., Yang Y., Leonardis A. and McDonagh, S., In Self-Supervised Learning - Theory and Practice, Workshop at NeurIPS, 2022.
+<u>Ericsson L.</u>, Dong N., Yang Y., Leonardis A. and McDonagh, S., In Neurocomputing, and Self-Supervised Learning - Theory and Practice, Workshop at NeurIPS, 2022.
 
 **Why Do Self-Supervised Models Transfer? Investigating the Impact of Invariance on Downstream Tasks** [[paper]](https://arxiv.org/abs/2111.11398)[[code]](https://github.com/linusericsson/ssl-invariances)  
 <u>Ericsson L.</u>, Gouk H. and Hospedales, T. M., In BMVC, 2022.
