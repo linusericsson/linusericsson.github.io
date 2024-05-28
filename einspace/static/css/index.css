@@ -122,6 +122,7 @@ h2.publication-title {
 
 .results-carousel {
   overflow: hidden;
+  height: 350px;
 }
 
 .results-carousel .item {
@@ -129,9 +130,13 @@ h2.publication-title {
   overflow: hidden;
   padding: 20px;
   font-size: 0;
+  height: 300px;
+  width: 800px;
 }
 
 .results-carousel .item img {
+  height: 250px;
+  max-width: 100%;
 }
 
 .results-carousel video {
