@@ -120,9 +120,18 @@ h2.publication-title {
 .publication-body img {
 }
 
+.slider-item {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  width: 800px;
+  height: 100%;
+  text-align: center;
+}
+
 .results-carousel {
   overflow: hidden;
-  height: 350px;
+  height: 200px;
 }
 
 .results-carousel .item {
@@ -130,12 +139,12 @@ h2.publication-title {
   overflow: hidden;
   padding: 20px;
   font-size: 0;
-  height: 300px;
-  width: 800px;
+  height: 250px;
+  width: 100%;
 }
 
 .results-carousel .item img {
-  height: 250px;
+  height: 150px;
   max-width: 100%;
 }
 
