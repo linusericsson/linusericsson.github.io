@@ -27,8 +27,19 @@ body {
   font-family: 'Google Sans', sans-serif;
 }
 
+h1 {
+  font-family: 'Courier New', Courier, monospace !important;
+}
+
+h2.publication-title {
+  /* font-family: "Google Sans", sans-serif !important; */
+  font-weight: 300;
+  font-size: 22px;
+  margin-top: -1em;
+}
 
 .publication-title {
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .publication-banner {
