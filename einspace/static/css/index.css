@@ -8,6 +8,11 @@ body {
     color: #000;
 }
 
+footer.is-dark {
+    background-color: #363636 !important;
+    color: #fff;
+}
+
 .link-block a {
     margin-top: 5px;
     margin-bottom: 5px;
