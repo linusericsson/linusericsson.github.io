@@ -173,3 +173,8 @@ h2.publication-title {
   overflow: hidden;
   /* background-color: #f1f1f1; */
 }
+
+.einspace {
+  font-family: 'Courier New', monospace;
+  font-weight: bold;
+}
