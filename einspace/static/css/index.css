@@ -182,3 +182,19 @@ h2.publication-title {
 .move_on_up {
   margin-top: -2em;
 }
+
+.yellow {
+  color: #ffd966ff;
+}
+
+.purple {
+  color: #8e7cc3ff;
+}
+
+.green {
+  color: #93c47dff;
+}
+
+.blue {
+  color: #6d9eebff;
+}

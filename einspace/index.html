@@ -122,13 +122,14 @@
     <div class="hero-body">
 
       <img src="static/images/baselines_arch_tree.png" alt="Three state-of-the-art architectures represented within einspace." class="teaser-image">
-      <h2 class="subtitle has-text-centered">Three state-of-the-art architectures represented in <b><span class="einspace">einspace</span></b>. Top: networks, bottom: CFG derivation trees.</h2>
+      <h2 class="subtitle">Three state-of-the-art architectures represented in <b><span class="einspace">einspace</span></b>. Top: networks, bottom: CFG derivation trees.</h2>
 
       <img src="static/images/einspace_cfg.png" alt="Three state-of-the-art architectures represented within einspace." class="teaser-image">
-      <h2 class="subtitle has-text-centered">The context-free grammar rules defining <b><span class="einspace">einspace</span></b>.</h2>
+      <h2 class="subtitle">The <a href="https://en.wikipedia.org/wiki/Context-free_grammar">context-free grammar</a> rules defining <b><span class="einspace">einspace</span></b>. All terminal symbols are grouped into <b><span class="yellow">branching</span></b>, <b><span class="purple">aggregation</span></b>, <b><span class="green">routing</span></b> and <b><span class="blue">computation</span></b> functions. An architecture can be generated from the starting symbol <span class="einspace">S</span> by following the production rules until the whole string has been expanded into terminal symbols. For example, ( <span class="einspace">S &rarr; M M</span> ), followed by ( <span class="einspace">M &rarr; C  &rarr; linear</span> ) and ( <span class="einspace">M &rarr; C &rarr; relu</span> ).</h2>
 
-      <div class="column has-text-centered">
+      <div class="column">
         <div class="publication-links">
+          <div class="has-text-centered">
           <!-- Github link -->
           <span class="link-block">
             <button class="external-link button is-normal is-rounded is-dark collapsible">
@@ -136,7 +137,9 @@
               <i class="fa-solid fa-circle-nodes" style="color: #ffffff;"></i>
             </span>
             <span>Open interactive architecture visualiser</span>
-          </button>
+            </button>
+          </span>
+          </div>
           <div class="hidden_content">
             <iframe srcdoc="&lt;html&gt;
           &lt;head&gt;
@@ -519,11 +522,10 @@
               &lt;/script&gt;
           &lt;/body&gt;
       &lt;/html&gt;" width=100%% height=600px></iframe>
-            <h5 class="subtitle has-text-centered">
-              The best found architecture on the AddNIST dataset in Unseen NAS. Zoom for more info. Drag to interact!
+            <h5 class="subtitle">
+              The best found architecture on the AddNIST dataset in <a href="https://github.com/Towers-D/NAS-Unseen-Datasets" target="_blank">Unseen NAS</a>, acheving 97.72%. Zoom for individual function names. Hover for tensor output shapes. Drag nodes to interact!
             </h5>
           </div>
-          </span>
         </div>
       </div>
       
@@ -568,7 +570,7 @@
 <section class="hero is-small">
   <div class="hero-body">
     <div class="container">
-      <h5 class="subtitle has-text-centered">A collection of high-performing architectures found in <b><span class="einspace">einspace</span></b>, on the diverse <a href="https://github.com/Towers-D/NAS-Unseen-Datasets" target="_blank">Unseen NAS</a> benchmark.</h5>
+      <h5 class="subtitle">A collection of high-performing architectures found in <b><span class="einspace">einspace</span></b>, on the diverse <a href="https://github.com/Towers-D/NAS-Unseen-Datasets" target="_blank">Unseen NAS</a> benchmark.</h5>
       <div id="results-carousel" class="carousel results-carousel">
        <div class="item">
         <!-- Your image here -->
