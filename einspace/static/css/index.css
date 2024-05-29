@@ -178,3 +178,7 @@ h2.publication-title {
   font-family: 'Courier New', monospace;
   font-weight: bold;
 }
+
+.move_on_up {
+  margin-top: -2em;
+}
