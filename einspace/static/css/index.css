@@ -37,10 +37,6 @@ h2.publication-title {
   margin-top: -1em;
 }
 
-.publication-title {
-  font-family: 'Courier New', Courier, monospace;
-}
-
 .publication-banner {
   max-height: parent;
 
@@ -162,3 +158,18 @@ h2.publication-title {
 
 
 
+
+.collapsible {
+  cursor: pointer;
+}
+
+.active, .collapsible:hover {
+  background-color: #333;
+}
+
+.hidden_content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  /* background-color: #f1f1f1; */
+}
