@@ -9,16 +9,16 @@
   <meta property="og:description" content="Welcome to the project page for einspace, a new expressive search space for neural architecture search."/>
   <meta property="og:url" content="https://linusericsson.github.io/einspace/index.html"/>
   <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
-  <!-- <meta property="og:image" content="static/image/your_banner_image.png" /> -->
-  <!-- <meta property="og:image:width" content="1200"/>
-  <meta property="og:image:height" content="630"/> -->
+  <meta property="og:image" content="static/image/baselines_arch_tree.png" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
 
 
   <meta name="twitter:title" content="einspace: a new expressive NAS search space">
   <meta name="twitter:description" content="Welcome to the project page for einspace, a new expressive search space for neural architecture search.">
   <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
-  <!-- <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
-  <meta name="twitter:card" content="summary_large_image"> -->
+  <meta name="twitter:image" content="static/images/baselines_arch_tree.png">
+  <meta name="twitter:card" content="Diverse architectures can be represented in einspace, including ConvNets and transformers.">
   <!-- Keywords for your paper to be indexed by-->
   <meta name="keywords" content="ai, artificial intelligence, ml, machine learning, cs, computer science, nas, neural architecture search">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -136,7 +136,7 @@
     <div class="hero-body">
 
       <img src="static/images/baselines_arch_tree.png" alt="Three state-of-the-art architectures represented within einspace." class="teaser-image">
-      <h2 class="subtitle">Very diverse architectures can be represented in <b><span class="einspace">einspace</span></b>, including ConvNets and transformers. Here are three state-of-the-art networks (top) and their CFG derivation trees (bottom).</h2>
+      <h2 class="subtitle">Diverse architectures can be represented in <b><span class="einspace">einspace</span></b>, including ConvNets and transformers. Here are three state-of-the-art networks (top) and their CFG derivation trees (bottom).</h2>
 
       <img src="static/images/einspace_cfg.png" alt="Three state-of-the-art architectures represented within einspace." class="teaser-image">
       <h2 class="subtitle">The <a href="https://en.wikipedia.org/wiki/Context-free_grammar">context-free grammar</a> rules defining <b><span class="einspace">einspace</span></b>. All terminal symbols are grouped into <b><span class="yellow">branching</span></b>, <b><span class="purple">aggregation</span></b>, <b><span class="green">routing</span></b> and <b><span class="blue">computation</span></b> functions. An architecture can be generated from the starting symbol <span class="einspace">S</span> by following the production rules until the whole string has been expanded into terminal symbols. For example, ( <span class="einspace">S &rarr; M M</span> ), followed by ( <span class="einspace">M &rarr; C  &rarr; linear</span> ) and ( <span class="einspace">M &rarr; C &rarr; relu</span> ).</h2>
