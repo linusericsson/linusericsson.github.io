@@ -42,7 +42,7 @@ Check out my [Google Scholar page](https://scholar.google.com/citations?user=QRW
 Eastwood C., von Kügelgen Julius, <u>Ericsson L.</u>, Bouchacourt D., Vincent P., Schölkopf B., Ibrahim M., Causal Representation Learning, and Self-Supervised Learning - Theory and Practice, Workshops at NeurIPS, 2023.
 
 **Parameter-Efficient Fine-Tuning for Medical Image Analysis: The Missed Opportunity** [[paper]](https://arxiv.org/abs/2305.08252)  
-Dutt R., <u>Ericsson L.</u>, Sanchez P., Tsaftaris S. A. and Hospedales T. M., *under review*.
+Dutt R., <u>Ericsson L.</u>, Sanchez P., Tsaftaris S. A. and Hospedales T. M., MIDL 2024.
 
 **Better Practices for Domain Adaptation** [[paper]](https://arxiv.org/abs/2309.03879)[[code]](https://github.com/linusericsson/better-da)  
 <u>Ericsson L.</u>, Li D. and Hospedales T. M., In AutoML, 2023 (Best paper award).
