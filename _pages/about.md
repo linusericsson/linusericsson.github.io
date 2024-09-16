@@ -22,6 +22,7 @@ I have a PhD from the University of Edinburgh, focused on "Self-Supervised Learn
 
 ## News
 
+[09/2024] I presented `einspace` in AutoML Seminars! Watch the talk [here](https://www.youtube.com/watch?v=3XLcFWRPB2E&t=1s&ab_channel=AutoMLSeminars).
 [06/2024] Released our work on `einspace`, a new expressive NAS search space. Check out the [preprint](https://arxiv.org/abs/2405.20838) or our [project page](https://linusericsson.github.io/einspace/index.html).  
 [01/2024] I am co-organising this year's [NAS Unseen-Data competition](https://www.nascompetition.com/) as part of AutoML 2024.  
 [11/2023] Started a postdoc position with Elliot J. Crowley at the University of Edinburgh.  
