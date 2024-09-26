@@ -22,7 +22,7 @@ I have a PhD from the University of Edinburgh, focused on "Self-Supervised Learn
 
 ## News
 
-[09/24] [`einspace`](https://linusericsson.github.io/einspace/index.html) accepted to NeurIPS 2024. See you in Vancouver!  
+[09/2024] [`einspace`](https://linusericsson.github.io/einspace/index.html) accepted to NeurIPS 2024. See you in Vancouver!  
 [09/2024] I presented `einspace` in AutoML Seminars! Watch the talk [here](https://www.youtube.com/watch?v=3XLcFWRPB2E&t=1s&ab_channel=AutoMLSeminars).  
 [06/2024] Released our work on `einspace`, a new expressive NAS search space. Check out the [preprint](https://arxiv.org/abs/2405.20838) or our [project page](https://linusericsson.github.io/einspace/index.html).  
 [01/2024] I am co-organising this year's [NAS Unseen-Data competition](https://www.nascompetition.com/) as part of AutoML 2024.  
@@ -40,7 +40,7 @@ I have a PhD from the University of Edinburgh, focused on "Self-Supervised Learn
 
 Check out my [Google Scholar page](https://scholar.google.com/citations?user=QRW9NN0AAAAJ).
 
-**`einspace`: Searching for Neural Architectures from Fundamental Operations** [[paper]](https://arxiv.org/abs/2405.20838)  
+**`einspace`: Searching for Neural Architectures from Fundamental Operations** [[paper]](https://arxiv.org/abs/2405.20838)[[code]](https://github.com/linusericsson/einspace)  
 <u>Ericsson L.</u>, Espinosa Minano M., Yang C., Antoniou A., Storkey A., Cohen S. B., McDonagh S., Crowley E. J., In NeurIPS, 2024.
 
 **Self-Supervised Disentanglement by Leveraging Structure in Data Augmentations** [[paper]](https://arxiv.org/abs/2311.08815)  
