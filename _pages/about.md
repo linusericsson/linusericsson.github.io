@@ -40,7 +40,7 @@ I have a PhD from the University of Edinburgh, focused on "Self-Supervised Learn
 
 Check out my [Google Scholar page](https://scholar.google.com/citations?user=QRW9NN0AAAAJ).
 
-**`einspace`: Searching for Neural Architectures from Fundamental Operations** [[paper]](https://arxiv.org/abs/2405.20838)[[code]](https://github.com/linusericsson/einspace)  
+**`einspace`: Searching for Neural Architectures from Fundamental Operations** [[paper]](https://arxiv.org/abs/2405.20838)[[code]](https://github.com/linusericsson/einspace)[[project page]](https://linusericsson.github.io/einspace/index.html)  
 <u>Ericsson L.</u>, Espinosa Minano M., Yang C., Antoniou A., Storkey A., Cohen S. B., McDonagh S., Crowley E. J., In NeurIPS, 2024.
 
 **Self-Supervised Disentanglement by Leveraging Structure in Data Augmentations** [[paper]](https://arxiv.org/abs/2311.08815)  
