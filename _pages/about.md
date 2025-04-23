@@ -22,6 +22,7 @@ I have a PhD from the University of Edinburgh, focused on "Self-Supervised Learn
 
 ## News
 
+[04/2025] New work on trasferrable surrogates for neural architecture search! Check out the [preprint]([https://arxiv.org/abs/2405.20838](https://arxiv.org/abs/2504.12971)) or our [project page](https://shiwenqin.github.io/TransferrableSurrogate/).  
 [09/2024] [`einspace`](https://linusericsson.github.io/einspace/index.html) accepted to NeurIPS 2024. See you in Vancouver!  
 [09/2024] I presented `einspace` in AutoML Seminars! Watch the talk [here](https://www.youtube.com/watch?v=3XLcFWRPB2E&t=1s&ab_channel=AutoMLSeminars).  
 [06/2024] Released our work on `einspace`, a new expressive NAS search space. Check out the [preprint](https://arxiv.org/abs/2405.20838) or our [project page](https://linusericsson.github.io/einspace/index.html).  
