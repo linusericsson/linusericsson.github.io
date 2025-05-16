@@ -39,9 +39,12 @@ I have a PhD from the University of Edinburgh, focused on "Self-Supervised Learn
 [08/2021] Our new survey [paper](https://arxiv.org/abs/2110.09327) is published in the IEEE Signal Processing Magazine!  
 [06/2021] Presented a [paper](https://arxiv.org/abs/2011.13377) at CVPR 2021!  
 
-## Publications
+## Selected Publications
 
 Check out my [Google Scholar page](https://scholar.google.com/citations?user=QRW9NN0AAAAJ).
+
+**Transferrable Surrogates in Expressive Neural Architecture Search Spaces** [[paper]](https://arxiv.org/abs/2405.20838)[[code]](https://github.com/shiwenqin/transferrable-surrogates)[[project page]](https://shiwenqin.github.io/TransferrableSurrogate/)  
+Qin S., Kadlecová G., Pilát M., Cohen S. B., Neruda R., Crowley E. J., Lukasik J., <u>Ericsson L.</u>, in AutoML, 2025.
 
 **`einspace`: Searching for Neural Architectures from Fundamental Operations** [[paper]](https://arxiv.org/abs/2405.20838)[[code]](https://github.com/linusericsson/einspace)[[project page]](https://linusericsson.github.io/einspace/index.html)[[video]](https://www.youtube.com/watch?v=3XLcFWRPB2E&t=1s&ab_channel=AutoMLSeminars)  
 <u>Ericsson L.</u>, Espinosa Minano M., Yang C., Antoniou A., Storkey A., Cohen S. B., McDonagh S., Crowley E. J., In NeurIPS, 2024.
@@ -72,4 +75,4 @@ I have worked as an intern with [Steven McDonagh](https://smcdonagh.github.io/) 
 
 ## Teaching
 
-I have undertaken tutoring, demonstrating and marking roles while studying both in Edinburgh and Durham.  Courses I’ve taught include [Introduction to Programming](https://github.com/DurhamIP) (in Python/Java), Introductory Applied Machine Learning and Theory of Computation.
+I recently gave a guest lecture in the Data Analysis and Machine Learning course at the University of Edinburgh, and taught at the AEUK Digital Signal Processing Summer School, for which I designed the materials and introduced an industry audience to modern ML topics over a 3 hour period. I have also undertaken tutoring, demonstrating and marking roles while studying both in Edinburgh and Durham, teaching courses including [Introduction to Programming](https://github.com/DurhamIP) (in Python/Java), Introductory Applied Machine Learning, Theory of Computation and Machine Learning in Signal Processing.
