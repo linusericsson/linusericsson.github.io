@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-## About
-
-I am a postdoctoral research associate at the School of Engineering in the University of Edinburgh, working with [Elliot J. Crowley](https://elliotjcrowley.github.io/).
+I am a postdoctoral researcher at the University of Edinburgh, working with [Elliot J. Crowley](https://elliotjcrowley.github.io/), focusing on representation learning, efficient architectures and adaptation across distribution shifts. I have published work in top venues, including NeurIPS, CVPR and the IEEE Signal Processing Magazine.
 
 My research interests include:
-* Automated machine learning (AutoML)
 * Representation learning
 * Multi-modal learning
+* Automated machine learning (AutoML)
 * Responsible applications to climate and healthcare
 
 I have a PhD from the University of Edinburgh, focused on "Self-Supervised Learning for Transferable Representations". This work was supervised by [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) and funded in part by the [EPSRC](https://epsrc.ukri.org/).
