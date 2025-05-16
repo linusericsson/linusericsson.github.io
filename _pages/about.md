@@ -22,7 +22,9 @@ I have a PhD from the University of Edinburgh, focused on "Self-Supervised Learn
 
 ## News
 
-[04/2025] New work on trasferrable surrogates for neural architecture search! Check out the [preprint](https://arxiv.org/abs/2504.12971) or our [project page](https://shiwenqin.github.io/TransferrableSurrogate/).  
+[05/2025] Our paper on trasferrable surrogates for neural architecture search was accepted to AutoML 2025! Check out the [paper](https://arxiv.org/abs/2504.12971) or our [project page](https://shiwenqin.github.io/TransferrableSurrogate/).  
+[05/2025] Attended the first [Nordic Workshop on AI for Climate Change](https://climateainordics.com/events/2025-nordic-workshop), learning about biodiversity monitoring, earth observation data and much more!  
+[05/2025] I spent a week as a visiting fellow at the [Bjerknes Centre for Climate Research](https://bjerknes.uib.no/en) in Bergen Norway Check out the [LinkedIn post](https://www.linkedin.com/posts/linus-ericsson-23a055137_had-a-great-time-last-week-hosting-bjerknes-activity-7328709293547921409-CcBB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACFJ6A4Bv1PXEFjY91ujjvZ18hVEhzyjqms).  
 [09/2024] [`einspace`](https://linusericsson.github.io/einspace/index.html) accepted to NeurIPS 2024. See you in Vancouver!  
 [09/2024] I presented `einspace` in AutoML Seminars! Watch the talk [here](https://www.youtube.com/watch?v=3XLcFWRPB2E&t=1s&ab_channel=AutoMLSeminars).  
 [06/2024] Released our work on `einspace`, a new expressive NAS search space. Check out the [preprint](https://arxiv.org/abs/2405.20838) or our [project page](https://linusericsson.github.io/einspace/index.html).  
