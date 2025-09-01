@@ -10,10 +10,10 @@ redirect_from:
 
 I have recently joined the University of Glasgow as a Lecturer in Artificial Intelligence and Machine Learning. My research explores AI/ML methods to learn transferable representations of data, building efficient neural networks, and adapting these models across data shifts, all to help people solve problems reliably across different scenarios. Specific interests include representation learning, multi-modal learning, robustness, and automated machine learning (AutoML).  
 
-<div style="border:2px solid #ddd; padding:1em; border-radius:8px; background:#f9f9f9;">
+<div style="border:2px solid #ddd; padding:1em; border-radius:8px; background:#f9f9f9; margin-bottom:1em;">
 <strong>Prospective PhD Students:</strong>  
 I am currently seeking PhD students! There are several routes for application, including <a href="https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/">available scholarships</a> within the School of Computing Science and the <a href="https://www.divein.org.uk/">DiveIn CDT</a>. Please take a look at my publications to see if our research interests align, and feel free to get in touch by email if you’d like to work with me.
-</div><br>
+</div>
 
 Previously, I was a postdoctoral researcher at the University of Edinburgh, where I worked with [Elliot J. Crowley](https://elliotjcrowley.github.io/) on AutoML and efficient neural network architectures. I hold a PhD from the University of Edinburgh, where my thesis, *Self-Supervised Learning for Transferable Representations*, was supervised by [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) and supported in part by the [EPSRC](https://epsrc.ukri.org/).  
 
