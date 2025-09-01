@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Linus Ericsson"
 title_separator          : "-"
 name                     : &name "Linus Ericsson"
-description              : &description "Academic website for Linus Ericsson"
+description              : &description "Linus Ericsson, Lecturer (Assistant Professor) in AI/ML at the University of Glasgow"
 url                      : https://linusericsson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "linusericsson/linusericsson.github.io"
@@ -82,13 +82,10 @@ analytics:
 author:
   name             : "Linus Ericsson (he/him)"
   avatar           : "profile_square.jpg"
-  bio              : "Postdoctoral researcher at the University of Edinburgh. <br><br>
+  bio              : "Lecturer (Assistant Professor) in AI/ML at the University of Glasgow <br><br>
 
-School of Engineering<br>
-Alexander Graham Bell Building<br>
-
-linus.ericsson at ed.ac.uk"
-  location         : "Edinburgh, UK"
+linus.ericsson at glasgow.ac.uk"
+  location         : "Glasgow, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QRW9NN0AAAAJ"
