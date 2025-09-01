@@ -8,20 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at the University of Edinburgh, working with [Elliot J. Crowley](https://elliotjcrowley.github.io/), focusing on representation learning, efficient architectures and adaptation across distribution shifts. I have published work in top venues, including NeurIPS, CVPR and the IEEE Signal Processing Magazine.
+I have recently joined the University of Glasgow as a Lecturer in Artificial Intelligence and Machine Learning. My research explores AI/ML methods to learn transferable representations of data, building efficient neural networks, and adapting these models across data shifts, all to help people solve problems reliably across different scenarios. Specific interests include representation learning, multi-modal learning, robustness, and automated machine learning (AutoML).  
 
-My research interests include:
-* Representation learning
-* Multi-modal learning
-* Automated machine learning (AutoML)
-* Responsible applications to climate and healthcare
+| **Prospective PhD Students** : I am currently seeking PhD students! There are several routes for application, including [available scholarships](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/) within the School of Computing Science and the [DiveIn CDT](https://www.divein.org.uk/). Please take a look at my publications to see if our research interests align, and feel free to get in touch by email if you’d like to work with me. |  
+| ----------------------------------|  
 
-I have a PhD from the University of Edinburgh, focused on "Self-Supervised Learning for Transferable Representations". This work was supervised by [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) and funded in part by the [EPSRC](https://epsrc.ukri.org/).
+Previously, I was a postdoctoral researcher at the University of Edinburgh, where I worked with [Elliot J. Crowley](https://elliotjcrowley.github.io/) on AutoML and efficient neural network architectures. I hold a PhD from the University of Edinburgh, where my thesis, *Self-Supervised Learning for Transferable Representations*, was supervised by [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) and supported in part by the [EPSRC](https://epsrc.ukri.org/).  
 
 ## News
 
+[09/2025] Starting as a Lecturer in Artificial Intelligence & Machine Learning within the [School of Computing Science](https://www.gla.ac.uk/schools/computing/) at the [University of Glasgow](https://www.gla.ac.uk/).  
 [05/2025] Our paper on trasferrable surrogates for neural architecture search was accepted to AutoML 2025! Check out the [paper](https://arxiv.org/abs/2504.12971) or our [project page](https://shiwenqin.github.io/TransferrableSurrogate/).  
-[05/2025] Attended the first [Nordic Workshop on AI for Climate Change](https://climateainordics.com/events/2025-nordic-workshop), learning about biodiversity monitoring, earth observation data and much more!  
+[05/2025] Attended the first [Nordic Workshop on AI for Climate Change](https://climateainordics.com/events/2025-nordic-workshop), learning about biodiversity monitoring, earth observation data and much more.  
 [05/2025] I spent a week as a visiting fellow at the [Bjerknes Centre for Climate Research](https://bjerknes.uib.no/en) in Bergen, Norway. Check out the [LinkedIn post](https://www.linkedin.com/posts/linus-ericsson-23a055137_had-a-great-time-last-week-hosting-bjerknes-activity-7328709293547921409-CcBB?utm_source=share&utm_medium=member_desktop&rcm=ACoAACFJ6A4Bv1PXEFjY91ujjvZ18hVEhzyjqms).  
 [09/2024] [`einspace`](https://linusericsson.github.io/einspace/index.html) accepted to NeurIPS 2024. See you in Vancouver!  
 [09/2024] I presented `einspace` in AutoML Seminars! Watch the talk [here](https://www.youtube.com/watch?v=3XLcFWRPB2E&t=1s&ab_channel=AutoMLSeminars).  
@@ -70,7 +68,3 @@ Dutt R., <u>Ericsson L.</u>, Sanchez P., Tsaftaris S. A. and Hospedales T. M., I
 
 ## Other Experience
 I have worked as an intern with [Steven McDonagh](https://smcdonagh.github.io/) & [Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/) at Huawei Noah's Ark Lab, and with [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) & [Da Li](https://dali-dl.github.io/) at Samsung AI Center. Previously, I completed a Master's degree in Computer Science at Durham University where I worked with [Magnus Bordewich](https://community.dur.ac.uk/m.j.r.bordewich/) on multi-task and transfer learning in RL. During my undergraduate degree I developed an algorithmic composition system with [Steven Bradley](https://www.durham.ac.uk/staff/s-p-bradley/). I also worked with Professor [Toby Breckon](http://breckon.eu/toby/) at the university over a summer, developing dense stereo vision and visual odometry for robotics. During this time I had the chance to collaborate with the Centre for Vision and Visual Cognition on a project involving Brain-Computer Interfaces as an application of Deep Learning.
-
-## Teaching
-
-I recently gave a guest lecture in the Data Analysis and Machine Learning course at the University of Edinburgh, and taught at the AEUK Digital Signal Processing Summer School, for which I designed the materials and introduced an industry audience to modern ML topics over a 3 hour period. I have also undertaken tutoring, demonstrating and marking roles while studying both in Edinburgh and Durham, teaching courses including [Introduction to Programming](https://github.com/DurhamIP) (in Python/Java), Introductory Applied Machine Learning, Theory of Computation and Machine Learning in Signal Processing.
