@@ -13,7 +13,7 @@ I have recently joined the University of Glasgow as a Lecturer in Artificial Int
 <div style="border:2px solid #ddd; padding:1em; border-radius:8px; background:#f9f9f9;">
 <strong>Prospective PhD Students:</strong>  
 I am currently seeking PhD students! There are several routes for application, including <a href="https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/">available scholarships</a> within the School of Computing Science and the <a href="https://www.divein.org.uk/">DiveIn CDT</a>. Please take a look at my publications to see if our research interests align, and feel free to get in touch by email if you’d like to work with me.
-</div>  
+</div><br>
 
 Previously, I was a postdoctoral researcher at the University of Edinburgh, where I worked with [Elliot J. Crowley](https://elliotjcrowley.github.io/) on AutoML and efficient neural network architectures. I hold a PhD from the University of Edinburgh, where my thesis, *Self-Supervised Learning for Transferable Representations*, was supervised by [Tim Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) and supported in part by the [EPSRC](https://epsrc.ukri.org/).  
 
