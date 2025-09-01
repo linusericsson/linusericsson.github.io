@@ -10,6 +10,20 @@ redirect_from:
 
 I have recently joined the University of Glasgow as a Lecturer in Artificial Intelligence and Machine Learning. My research explores AI/ML methods to learn transferable representations of data, building efficient neural networks, and adapting these models across data shifts, all to help people solve problems reliably across different scenarios. Specific interests include representation learning, multi-modal learning, robustness, and automated machine learning (AutoML).  
 
+> **Prospective PhD Students**  
+> I am currently seeking PhD students! There are several routes for application, including [available scholarships](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/) within the School of Computing Science and the [DiveIn CDT](https://www.divein.org.uk/). Please take a look at my publications to see if our research interests align, and feel free to get in touch by email if you’d like to work with me.
+
+
+**━━━━━━━━━━━━━━━━━━**  
+**Prospective PhD Students**  
+I am currently seeking PhD students! There are several routes for application, including [available scholarships](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/) within the School of Computing Science and the [DiveIn CDT](https://www.divein.org.uk/). Please take a look at my publications to see if our research interests align, and feel free to get in touch by email if you’d like to work with me.  
+**━━━━━━━━━━━━━━━━━━**
+
+<div style="border:2px solid #ddd; padding:1em; border-radius:8px; background:#f9f9f9;">
+<strong>Prospective PhD Students</strong>  
+I am currently seeking PhD students! There are several routes for application, including <a href="https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/">available scholarships</a> within the School of Computing Science and the <a href="https://www.divein.org.uk/">DiveIn CDT</a>. Please take a look at my publications to see if our research interests align, and feel free to get in touch by email if you’d like to work with me.
+</div>
+
 | **Prospective PhD Students** : I am currently seeking PhD students! There are several routes for application, including [available scholarships](https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/) within the School of Computing Science and the [DiveIn CDT](https://www.divein.org.uk/). Please take a look at my publications to see if our research interests align, and feel free to get in touch by email if you’d like to work with me. |  
 | ----------------------------------|  
 
