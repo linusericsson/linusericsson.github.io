@@ -14,7 +14,7 @@ I am a Lecturer in Artificial Intelligence and Machine Learning at the School of
 <strong>Prospective PhD Students:</strong>  
 I am currently seeking PhD students! There are several routes for application (generally with deadlines around January each year), including <a href="https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/">available scholarships</a> within the School of Computing Science and the <a href="https://www.divein.org.uk/">DiveIn CDT</a>. Please take a look at my publications to see if our research interests align, and feel free to get in touch by email if you’d like to work with me.  
 <br><br>
-For postdoc interests, the [MSCA Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) can support applicants from outside the UK. Get in touch if you're interested in applying.
+For postdoc interests, the <a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships">MSCA Postdoctoral Fellowships</a> can support applicants from outside the UK. Get in touch if you're interested in applying.
 <!-- Applicants interested in working with AI and citizen science to improve biodiversity monitoring can apply to the <a href="https://iapetus.ac.uk/studentships/from-wandering-albatrosses-to-hedgehogs-using-ai-and-citizen-science-to-improve-biodiversity-monitoring-under-ground-truth-uncertainty/">IAPETUS project I will co-supervise</a>. Contact <a href="https://www.linkedin.com/posts/tiffany-vlaar_ml-ai-phd-activity-7388942940473147394-vjIE?utm_source=share&utm_medium=member_desktop&rcm=ACoAACFJ6A4Bv1PXEFjY91ujjvZ18hVEhzyjqms">Dr Tiffany Vlaar</a> for details. -->
 </div>
 
